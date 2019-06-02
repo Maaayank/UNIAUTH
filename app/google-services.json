@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "745088177440",
+    "firebase_url": "https://uniauth-756c7.firebaseio.com",
+    "project_id": "uniauth-756c7",
+    "storage_bucket": "uniauth-756c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745088177440:android:a375233f6ed845f8",
+        "android_client_info": {
+          "package_name": "com.example.user.uniauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745088177440-2isqu9j8k5kfih659ndq47cvnjlqn4ku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdaShWuPtvF-MddSFUfBp819BzSQP1Dg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745088177440-2isqu9j8k5kfih659ndq47cvnjlqn4ku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
